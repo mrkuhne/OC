@@ -11,9 +11,10 @@
 <a id="alapveto_fogalmak"></a>
 ## Alapvető fogalmak
 
-### **Mi az a facebook és instagram?**
+### Mi a Facebook és az Instagram?
 
-#### Felhasználási célok: Facebook és Instagram
+#### Felhasználási célok: Facebook és Instagram
+
 * Facebook
     * Digitális Névjegykártya
         * Közvetlen kommunikáció ügyfelekkel
@@ -40,6 +41,7 @@
         * Kategorizált tartalmak pl. családi, luxus, stb.
 
 #### Közösségi média szerepe az ingatlanpiacon
+
 * Piaci elérhetőségünk kibővítése
     * Új ügyfelek elérése lokációtól függetlenül
     * Gyors információcsere, címek, fényképek, videók
