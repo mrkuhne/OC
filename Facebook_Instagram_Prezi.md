@@ -59,6 +59,19 @@
 
 #### Kiket érünk el a különböző felületeken
 
+* Demográfiai különbésgek
+    * Facebook: széles korosztály, 30 - 55 év között
+    * Instagram: fiatalabb közönség, 18 - 35 között
+* Érdeklődésbeli eltérések
+    * Facebook: részletesebb információk és közösségi kapcsolatok
+    * Instagram: vizuális tartalomközpontúság, életstílus és trendköveté
+* Elköteleződés és Interakciók
+    * Facebook: Több interakció hosszabb formátumú tartalmakkal
+    * Instagram: Gyors rekaciók, azonnali érdeklődésre számot tartó posztok
+* Mindkét platform támogat helyi és távolabbi célzásokat
+
+
+
 **Alapvető fogalmak**
 
 * Profil, Oldal, Poszt, Feed, Követő, Ismerős
